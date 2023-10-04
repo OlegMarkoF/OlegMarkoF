@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
-Here are some ideas to get you started:
-
 - 🔭 Изучаю веб-разработку
 - 🌱 Хочу работать в команде профессионалов, создавая нужные людям продукты
 - ✨ Люблю воплощать интересные идеи
