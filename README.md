@@ -28,26 +28,12 @@ src="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec
 <h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Я в сети</a></h2>
 
 <div align="center">
-<h3 align="center"><a href="https://t.me/Markov0leg/" target="_blank">
   
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  
-</a></h2>
-<h3 align="center"><a href="mailto:o.mark@mail.ru" target="_blank">
-  
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
-</a></h2>
-<h3 align="center"><a href="https://www.linkedin.com/in/olegmarkov/" target="_blank">
+<a href="https://t.me/Markov0leg/" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:o.mark@mail.ru" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/olegmarkov/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://api.whatsapp.com/send?phone=79179406963" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-</a></h2>
-<h3 align="center"><a href="https://api.whatsapp.com/send?phone=79179406963" target="_blank">
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-</a></h2>
 </div>
 
 <h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Github Stats</a></h2>
