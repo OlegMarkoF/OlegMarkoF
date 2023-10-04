@@ -7,7 +7,10 @@
 - ✨ Люблю воплощать интересные идеи
 - ⚡ Ищу боевые проекты, в которых могу быть полезным
 
+
 <h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Мой стек</a></h2>
+
+
 <div align="center">
 <img src="https://camo.githubusercontent.com/3f289d98c7b8dc0adb54cbeebcac97d462b8f027f9b3b88deaaab35eddba49b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3238324333343f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" height="25"/>
 <img src="https://camo.githubusercontent.com/d8a38a3da1b8512af061dec74f1d6613a8f3fa39c5f20179103c28196e8a56da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3238324333343f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" height="25"/>
@@ -25,7 +28,9 @@ src="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3
 src="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec8bbeffe915e0a05745990590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3238324333343f6c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236" height="25"/>
 </div>
 
+
 <h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Я в сети</a></h2>
+
 
 <div align="center">
   
