@@ -8,7 +8,7 @@
 - ⚡ Ищу боевые проекты, в которых могу быть полезным
 
 
-<h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Мой стек</a></h2>
+<h2 align="center">Мой стек</h2>
 
 
 <div align="center">
@@ -29,7 +29,7 @@ src="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec
 </div>
 
 
-<h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Я в сети</a></h2>
+<h2 align="center">Я в сети</h2>
 
 
 <div align="center">
@@ -41,7 +41,7 @@ src="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec
 
 </div>
 
-<h2 align="center"><a href="https://daniilshat.ru/" target="_blank">Github Stats</a></h2>
+<h2 align="center">Github Stats</h2>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegMarkoF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
