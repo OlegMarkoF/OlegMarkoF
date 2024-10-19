@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/9fbc26ddc8e49b729b7d4911a68049839bd75af1
 src="https://camo.githubusercontent.com/15bae9840e64400389eef74cac007cbc834ca65dadbc229bfc6310e8fa465b5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3238324333343f6c6f676f3d65787072657373266c6f676f436f6c6f723d464646464646" alt="Express" title="Express" height="25"/>
   <img src="https://camo.githubusercontent.com/7080709b312a829823fa4d98fa3c1cf67a7e70400e50ee9ba5edcfeba3dc6e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343" alt="Figma" title="Figma" height="25"/>
   <img src="https://camo.githubusercontent.com/03cc51fb4586cb79724ffc889889c2cf02df09640106ff856ffcbd0e665f7485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333" alt="Node.js" title="Node.js" height="25"/>
-  <img src="https://banner2.cleanpng.com/20180811/tpu/6ef0041f0e0ace87d1e03031b18a23f5.webp" alt="MongoDB" title="MongoDB" height="25"/>
+  <img src="https://banner2.cleanpng.com/20180811/tpu/6ef0041f0e0ace87d1e03031b18a23f5.webp" alt="MongoDB" title="MongoDB" height="25" border-radius="5px"/>
 
 </div>
 
